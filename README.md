@@ -34,10 +34,9 @@ Copy
 Edit
 pip install streamlit prophet xgboost scikit-learn pandas matplotlib
 Run the app:
+python -m streamlit run notebooks\streamlit_app\sales_forecasting_suite_all.py
 
 
-
-streamlit run sales_forecasting_suite_all.py
 Usage
 Open the URL shown in your terminal (usually http://localhost:8501).
 
