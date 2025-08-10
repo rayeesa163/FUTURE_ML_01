@@ -18,7 +18,8 @@ The app provides interactive visualizations and model performance insights to he
 - Easy-to-use tabs for switching between forecasting and churn prediction.
 - Built with Python, Streamlit, Prophet, XGBoost, and other popular data science libraries.
 
-Demo vedio : https://www.loom.com/share/53bed10a678340049ab920da5a6b11fd?sid=7efc5d37-5337-4dc1-8e7b-3ad4c8822bd5
+Demo vedio : 
+https://www.loom.com/share/0cd95c3e1ca94c36a97887b21d811590?sid=af8073da-a87b-4a4c-85b6-552561e7beaf
 
 ## Installation
 
