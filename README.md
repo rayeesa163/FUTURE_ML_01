@@ -33,8 +33,11 @@ Demo vedio : https://www.loom.com/share/53bed10a678340049ab920da5a6b11fd?sid=7ef
 pip install streamlit prophet xgboost scikit-learn pandas matplotlib
 
 
+
+
 Run the app:
 python -m streamlit run notebooks\streamlit_app\sales_forecasting_suite_all.py
+
 
 
 Usage
